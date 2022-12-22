@@ -1,0 +1,18 @@
+{
+    "name": "fhsinchy/inspire",
+    "description": "Custome package",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harsh Parmar",
+            "email": "harsh@example.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
